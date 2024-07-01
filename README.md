@@ -132,7 +132,18 @@
 
 ## Matriz CLAE
 
-#### 2) [Matriz](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/c120bc58-e725-4e7a-949d-cd2bbf632c5c)
+#### 2) En la [Matriz](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/ac714a87-944b-4df2-b1ac-70d6bfd9a557) **CLAE** estan represntados los seguientes puntos: 
+>  1 - El Bibliotecario registra un Libro en el sistema
+>  2 - El Bibliotecario registra un Socio en el sistema
+>  3 - El Bibliotecario/Socio busca por un libro
+>  4 - El Bibliotecario/Socio reserva un Libro
+>  5 - El Bibliotecario/Socio da de baja una reserva
+>  6 - El Bibliotecario/Socio visualiza en el sistema la ubicación de un libro
+>  7 - El Bibliotecario un libro para un Socio
+>  8 - El Socio devuelve un Libro para el Bibliotecario
+>  9 - El Bibliotecario devuelve el libro a su ubicación
+>  10 - El Socio paga su deuda
+
 
 # Preguntás teóricas
 #### [Este](https://github.com/user-attachments/files/16059655/Leandro_T_Parcial_02.pdf) es el documento con las respuestas de las preguntas teoricas.
