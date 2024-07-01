@@ -62,42 +62,42 @@
 
 ## Diagramas de Casos de Uso: 
 
-##### 1) Registrar libro en el sistema: [Diagrama]()
+##### 1) Registrar libro en el sistema: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/328de8e3-89dd-4beb-85ce-6275f74bf982)
 >  El bibliotecario debe registrar en la base de datos las informaciones del libro.
 
-##### 2) Registrar usuario Socio: [Diagrama]()
+##### 2) Registrar usuario Socio: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/effc28ce-a1c9-4dfa-838c-c410032a3798)
 >  El bibliotecario debe registras registrar en la base de datos las informaciones del usuario.
 >  Debe seleccionar si es un usuario Socio o Bibliotecario
 >  El Socio tendrá acceso a su UserID y su contraseña temporal.
 
-##### 3) Buscar un libro: [Diagrama]()
+##### 3) Buscar un libro: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/8ed7b493-2bda-4e94-bfd4-33e69875702f)
 >  Tanto el Socio cuanto el Bibliotecario pueden buscar por un libro en la base de datos y verificar si en el libro está disponible y si es restringido.
 
-##### 4) Reservar un Libro: [Diagrama]()
+##### 4) Reservar un Libro: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/5bbd8bd2-bb0f-483f-99a8-545630cdf4e0)
 >  Tanto el Socio cuanto el Bibliotecario pueden buscar por un libro en la base de datos, se este cumple los requisitos de Disponible y No restringido, el usuario puede hacer una reserva para que el libro pueda ser retirado mas tarde.
 
-##### 5) Dar de baja la Reserva: [Diagrama]()
+##### 5) Dar de baja la Reserva: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/bc075482-1757-47a5-8367-6d895cf0871a)
 >  Tanto el Socio cuanto el Bibliotecario pueden buscar por una reserva vigente y eliminar la reserva, así el libro vuelve a figurar como disponible.
 
-##### 6) Encontrar la ubicación de un libro en su estantería: [Diagrama]()
+##### 6) Encontrar la ubicación de un libro en su estantería: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/43a27399-4a31-47f6-b461-e8e8394e9cf7)
 >  Para disminuir la dependencia de las Socios para con los Bibliotecarios y mejorar la eficiencia de la atención los Socios también pueden ver en la página de la biblioteca en que sección y estantería está ubicado.
 >  Solamente los Bibliotecarios pueden marca el libro como ausente. 
 
-##### 7) Prestar un Libro: [Diagrama]()
+##### 7) Prestar un Libro: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/e41f4bf5-867a-4e47-9eda-438ce0a06c8b)
 >  Tanto el Socio cuanto el Bibliotecario pueden confirmar si el libro está disponible o reservado por el socio solicitante. También pueden ver si el socio tiene alguna deuda pendiente.
 >  Solamente el Bibliotecario puede realizar el préstamo y cobrar la multa
 >  Solamente el Socio puede recibir el libro y pagar a multa
 
-##### 8) Devolver un libro: [Diagrama]()
+##### 8) Devolver un libro: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/c8d83527-18b0-4809-bb4c-fbbcf0c64f58)
 >  El Socio entrega el libro para el bibliotecario, que lo recibe
 >  El bibliotecario registra la devolución en el sistema y verifica si la fecha de devolución está excedida o no. Con base en esa información él puedo aplicar la multa al Socio, en caso de exceso. 
 >  El socio puede pagar la multa.
 
-##### 9) Devolver un libro a su lugar: [Diagrama]()
+##### 9) Devolver un libro a su lugar: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/a4bd64da-7847-4120-9e4c-0c6fda822903)
 >  El Bibliotecario pone el libro en la estantería y registra en el sistema.
 >  El Backend actualiza esa información en la página de la biblioteca para que los usuarios pueda tener acceso a esa información cuando hacen la búsqueda de un libro. 
 
-##### 10) Pagar una deuda: [Diagrama]()
+##### 10) Pagar una deuda: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/c33642cf-a560-4a8e-8a77-278f910d8d43)
 >  Tanto el Socio cuanto el Bibliotecario pueden ver el valor de la deuda del Socio
 >  El bibliotecario puede cobrar la multa y una vez abonado el valor, él puede registrar el pago.
 
