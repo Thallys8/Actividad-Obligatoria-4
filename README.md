@@ -106,10 +106,10 @@
 ##### 1) Solicitar el prestamos de un libro: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/e1e3c889-d4ee-4477-9fde-3cef998d6898)
 >  Es este escenario estaremos describiendo la ruta principal y los pasos para este proceso de alta prioridad para la biblioteca que es el préstamo de un libro, ya que esta es la función fin del emprendimiento. 
 
-##### 2) Devolver un libro prestado: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/e1e3c889-d4ee-4477-9fde-3cef998d6898)
+##### 2) Devolver un libro prestado: [Diagrama]()
 >  Es este escenario estaremos describiendo la ruta principal y los pasos para este proceso de alta prioridad para la biblioteca que es la devolución de un libro, ya que de suma importancia para asegurar el registro de devoluciones y no perjudicar a la biblioteca o al >  Socio por cuenta de un error en el proceso de devoluciones de un libro y para mantener libros disponibles en stock para futuros prestamos.
 
-##### 3) Registrar un nuevo Socio: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/e1e3c889-d4ee-4477-9fde-3cef998d6898)
+##### 3) Registrar un nuevo Socio: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/12ce7e0c-0059-43ac-a256-0e52577f1f2a)
 >  Es este escenario estaremos describiendo la ruta principal y los pasos para este proceso de alta prioridad para la biblioteca porque es la manera como la biblioteca puede registrar los Socios para quién podrá prestar libros, y registrar adecuadamente los prestamos.
 
 # Actividad 3
