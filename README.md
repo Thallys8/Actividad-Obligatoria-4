@@ -58,7 +58,18 @@
 #### Para la Actividad numero 4 fueron creados las Tarjetas CRC, 10 Diagrmas de casos de Uso y 3 Ensenários de casos de Uso.
 
 ## Tarjetas CRC: 
-
+##### • Clase Libro: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/aedaa5b2-dbbe-4d0e-bd01-2ba50dcc544a)
+##### • Clase Ubicacion: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/cc6b281f-09dd-4512-87bb-8de991b987e3)
+##### • Clase Usuario: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/48194fec-5ad4-449c-8ca2-01f1ad7e3c29)
+##### • Clase Socio: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/e1917db8-80f0-40d3-a9ed-8a62ea2ae388)
+##### • Clase Bibliotecario: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/b75ce23e-5b19-4a6a-917f-738a1a3a7e17)
+##### • Clase Reserva: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/6f8c4b32-eee3-4241-b26d-b33696a5a1db)
+##### • Clase Prestamo: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/4b5c9f5a-d07d-4a6c-9d9f-3a52f0aaf1dd)
+##### • Clase QuitarMulta: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/0468fe3e-d8e6-4cfb-b5a9-fe80c2673b07)
+##### • Clase Credenciales: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/c883a2a7-7ed6-4924-a2bb-a7c73db67989)
+##### • Clase SocioComun: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/b9276ff9-1ffc-44e7-a66c-7d365d37a618)
+##### • Clase SocioPremium: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/114a4f40-9030-49b0-9f95-d812cb80ac4e)
+##### • Clase Interfase EstanteriaVirtual: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/fc6d3bf1-a796-41c1-bfd7-d3cd08268147)
 
 ## Diagramas de Casos de Uso: 
 
