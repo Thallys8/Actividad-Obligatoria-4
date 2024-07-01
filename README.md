@@ -115,5 +115,8 @@
 # Actividad 5
 #### Para actividad numero 5 actualizamos el Diagramas de Clases y los 5 Diagrmas de Secuencias.
 
+## 1) Diagrama de Clases: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/38006ce7-acc7-421a-af71-0017acaf821e)
+
 # Preguntás teóricas
 #### [Este]() es el documento con las respuestas de las preguntas teoricas.
+#### Para mejor compreención del proceso dejo mi diagrama de clase como estaba [Antes](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/012cff53-f0f0-4101-aff7-6ec508648a70) de aplicar los principios **SOLID** y [Despues](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/38006ce7-acc7-421a-af71-0017acaf821e) de aplicarlos.
