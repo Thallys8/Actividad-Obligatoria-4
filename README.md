@@ -15,13 +15,13 @@
 
 ## Diagramas de Actividades:
 
-##### 1) Préstamo de libro: [Diagrama]()
+##### 1) Préstamo de libro: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/05cd2996-cfd4-4a9c-a954-6f36069a6c0a)
 >  El Usuario solicita un libro, el bibliotecario verificará si la membresía de Socio es válida, solo si presta libro para los miembros, caso no sea, el solicitante podrá hacerse una membresía de Socio.
 >  En secuencia, el bibliotecario verificará se el socio tiene o no deudas, caso sí, el socio podrá pagar esa deuda, caso contrario no se le prestará el libro.
 >  Una vez que no haya deudas en nombre del socio, se verificará si el libro está o no disponible para prestamos, se está, también se verificará si es un libro restricto o no, caso sea, no se le prestará el libro, de lo contrario se se registrará el préstamo, se actualizará el stock y se entregará el libro al usuario.
 
 
-##### 2) Devolución de libro: [Diagrama]()
+##### 2) Devolución de libro: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/6162ffb8-d39b-4fd6-83c5-78160156335d)
 >  El Usuario quiere devolver un libro, el bibliotecario verifica si es o no un socio, si no, solicita los datos del Socio que tomo el libro prestado (UserID) y el número de identificación unitario del libro (LibroID).
 >  Con esa información el bibliotecario ingresará los datos de Socio y el sistema deberá informar si el libro fue entregue adentro del plazo de devolución.
 >  Caso el plazo se haya excedido, se aplicará la multa al socio, que podrá abonar su deuda en ese momento o dejarla pendiente. 
@@ -30,25 +30,25 @@
 
 ## Diagrama de Secuencias:
 
-##### 1) Prestamos de libro: [Diagrama]()
+##### 1) Prestamos de libro: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/6f10a8db-5cc2-4c8f-a78c-06dbc0f6532f)
 >  El socio solicita un préstamo de un libro con intención de llevarse este libro para afuera de la biblioteca, el bibliotecario debe verificar la disponibilidad del libro y si es restricto para lectura intramuros de la biblioteca.
 
-##### 2) Devolución de libro: [Diagrama]()
+##### 2) Devolución de libro: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/5e07e905-aaf1-4c3d-8866-77c2030f25c2)
 >  El socio devuelve el libro para el bibliotecario, este por su vez lo registra en sistema y el sistema le informa el registro de devolución y el tiempo que el libro estuvo prestado.
 >  El Bibliotecario informará el Socio que se registró la devolución y informará el estatus de devolución y si será aplicado multa al usuario caso haya excedido el tiempo de devolución. 
 
-##### 3) Pagar Multa: [Diagrama]()
+##### 3) Pagar Multa: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/e1d45ece-8090-4be9-96b6-a8a681384997)
 >  Socio solicita pagar una multa, el bibliotecario verifica el status de deudor y informa al Socio el status y el monto de su deuda.
 >  El Socio paga la deuda, el bibliotecario registra en el sistema y luego informa al Socio su nuevo status como no deudor.
 
-##### 4) Reservar libro: [Diagrama]()
+##### 4) Reservar libro: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/649a262b-4711-4c82-8935-30796a7f43cf)
 >  El Socio no puede ir a la biblioteca en ese instante pero tiene la intención de ir mas tarde por un libro, pero le gustaría reservar uno de los libros para no correr el riesgo de ir a la biblioteca y que no haya disponibilidad de ese libro.
 >  Para eso el socio entra a la pagina de la biblioteca con sus credenciales, verifica si el libro está disponible y solicita una reservación de este. 
 >  El sistema le informará se el libro está o no disponible y también se es un libro que se puede prestar normalmente o solamente para lectura adentro de los límites de la biblioteca (intramuros).
 >  
 >  **Nota**: El Status de deudor no es necesario para la reservación online del libro, pero se hará la verificación en el momento de realizar el préstamo (ver diagrama de prestamo).
 
-##### 5) Registrar un socio: [Diagrama]()
+##### 5) Registrar un socio: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/ce96450b-5b9f-4de5-a41d-52104f40293b)
 >  El cliente (futuro socio) solicita al Bibliotecario la creación de una nueva cuenta.
 >  El bibliotecario solicitará al cliente sus datos personales, luego de tener en manos estos datos él irá registrar en el sistema, que por su vez devolverá el status de cuanta creada junco con el UserID y una contraseña temporal.
 >  El Bibliotecario repasará esa información al cliente (nuevo Socio), que por su vez, ingresará a la página de la biblioteca y cambiará la contraseña temporal por una nueva de su elección.
