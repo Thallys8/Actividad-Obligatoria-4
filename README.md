@@ -126,6 +126,8 @@
 # Actividad 5
 #### Para actividad numero 5 actualizamos el Diagramas de Clases y los 5 Diagrmas de Secuencias.
 
+## Diagrama de Clases:
+
 #### 1) Diagrama de Clases: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/9bbd96f3-b99e-4fd3-806e-cdd1cd50c1eb)
 
 # Preguntás teóricas
