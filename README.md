@@ -112,8 +112,8 @@
 ##### 3) Registrar un nuevo Socio: [Diagrama](https://github.com/Thallys8/Actividad-Obligatoria-4/assets/171758911/12ce7e0c-0059-43ac-a256-0e52577f1f2a)
 >  Es este escenario estaremos describiendo la ruta principal y los pasos para este proceso de alta prioridad para la biblioteca porque es la manera como la biblioteca puede registrar los Socios para quién podrá prestar libros, y registrar adecuadamente los prestamos.
 
-# Actividad 3
-#### Para actividad numero 3  creamos 2 Diagramas de Actividades y los 5 Diagrmas de Secuencias.
+# Actividad 5
+#### Para actividad numero 5 actualizamos el Diagramas de Clases y los 5 Diagrmas de Secuencias.
 
 # Preguntás teóricas
 #### [Este]() es el documento con las respuestas de las preguntas teoricas.
